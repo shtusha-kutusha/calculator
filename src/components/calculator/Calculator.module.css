@@ -1,0 +1,9 @@
+.calculator {
+	display: grid;
+	grid-template-areas:
+		"advanced reset reset"
+		"advanced numbers actions";
+	grid-template-columns: 3fr 3fr 1fr;
+	grid-template-rows: 1fr 4fr;
+	margin: -4px;
+}

@@ -1,0 +1,5 @@
+.buttonsBasic {
+	display: grid;
+	grid-area: actions;
+	grid-auto-rows: 43px;
+}

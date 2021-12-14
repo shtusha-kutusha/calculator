@@ -1,0 +1,14 @@
+.reset {
+	font-size: 13px;
+	background-color: #5f6368;
+	color: #fff;
+	border: 1px solid #5f6368;
+	border-radius: 4px;
+	cursor: pointer;
+	margin: 4px;
+}
+
+.reset:hover {
+	background-color: #70757a;
+	border-color: #70757a;
+}

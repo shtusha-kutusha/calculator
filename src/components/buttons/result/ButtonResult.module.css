@@ -1,0 +1,18 @@
+.result {
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #8ab4f8;
+	color: #202124;
+	border: 1px solid #8ab4f8;
+	border-radius: 4px;
+	cursor: pointer;
+	grid-row-start: 4;
+	grid-column-start: 3;
+	margin: 4px;
+	pointer-events: auto;
+}
+
+.result:hover {
+	background-color: #aecbfa;
+	border-color: #aecbfa;
+}
